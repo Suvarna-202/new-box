@@ -1,0 +1,14 @@
+div {
+    margin-bottom: 0px;
+    height: 200px;
+    width: 200px;
+    background-color: palevioletred;
+}
+
+.div1 {
+    margin-left: 200px;
+}
+
+.div2 {
+    margin-left: 400px;
+}
